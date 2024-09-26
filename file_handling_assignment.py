@@ -26,6 +26,5 @@ except PermissionError:
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
 finally:
-    if 'file' in locals() and not file.closed:
-        file.close()  # Ensure the file is closed
+   
     print("File operations completed.")
