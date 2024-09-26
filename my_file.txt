@@ -1,0 +1,6 @@
+Hello, this is a test file.
+Here's a second line with a number: 42.
+The third line contains a mix of text and numbers: 123 and ABC.
+Appending a fourth line.
+This is the fifth line with a number: 99.
+The sixth line contains more text and numbers: XYZ and 456.
